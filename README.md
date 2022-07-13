@@ -11,7 +11,7 @@ To run this code:
 -get packages
 -run it
 
-#app preview
+# App preview
 
 ![12](https://user-images.githubusercontent.com/94393895/178794279-eda16336-e575-4c6a-91c3-8f04165fa208.jpg)
 
